@@ -2,7 +2,7 @@ const Portfolio = (function () {
   function makeWords() {
     var words = [
       {
-        text: "UX/UI",
+        text: "Team",
         weight: 12.3,
       },
       {
@@ -26,15 +26,15 @@ const Portfolio = (function () {
         weight: 10,
       },
       {
-        text: "HTML",
+        text: "IT",
         weight: 9,
       },
       {
-        text: "愛",
+        text: "fun",
         weight: 15,
       },
       {
-        text: "Team",
+        text: "Chinese",
         weight: 7,
       },
     ];
